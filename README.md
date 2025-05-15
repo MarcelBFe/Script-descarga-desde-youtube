@@ -23,7 +23,7 @@ Si no están instaladas, el script intentará instalarlas automáticamente.
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/MarcelBFe/Script-descarga-desde-youtube.git
    cd tu-repo
    ```
 
