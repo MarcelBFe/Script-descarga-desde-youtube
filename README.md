@@ -24,7 +24,7 @@ Si no están instaladas, el script intentará instalarlas automáticamente.
 
    ```bash
    git clone https://github.com/MarcelBFe/Script-descarga-desde-youtube.git
-   cd tu-repo
+   cd Script-descarga-desde-youtube
    ```
 
 2. Da permisos de ejecución al script:
